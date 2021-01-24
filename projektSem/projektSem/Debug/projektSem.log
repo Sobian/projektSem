@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Worker.cpp
+  Generating Code...
+C:\Users\msobi\OneDrive\Pulpit\pjatk2020_2021\pjc\projekt\projektSem\projektSem\Main.cpp(85): warning C4715: 'fnSurnameAsc': not all control paths return a value
+C:\Users\msobi\OneDrive\Pulpit\pjatk2020_2021\pjc\projekt\projektSem\projektSem\Main.cpp(90): warning C4715: 'fnSurnameDsc': not all control paths return a value
+C:\Users\msobi\OneDrive\Pulpit\pjatk2020_2021\pjc\projekt\projektSem\projektSem\Main.cpp(95): warning C4715: 'fnNameAsc': not all control paths return a value
+C:\Users\msobi\OneDrive\Pulpit\pjatk2020_2021\pjc\projekt\projektSem\projektSem\Main.cpp(100): warning C4715: 'fnNameDsc': not all control paths return a value
+  projektSem.vcxproj -> C:\Users\msobi\OneDrive\Pulpit\pjatk2020_2021\pjc\projekt\projektSem\Debug\projektSem.exe
